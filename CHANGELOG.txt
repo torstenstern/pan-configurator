@@ -1,5 +1,7 @@
 CHANGELOG
 
+test
+
 1.5.13
 * class ServiceGroup: extend __construct with $fromTemplateXml
 * class ServiceStore: extend for API_newService()/newServiceGroup()/API_newServiceGroup()
